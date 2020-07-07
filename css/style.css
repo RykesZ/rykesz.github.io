@@ -13,8 +13,6 @@
 #col_left
 {
 	background-color: #66BB6A;
-	margin-right: 60px;
-	margin-left: 60px;
 }
 
 #col_right
@@ -23,7 +21,6 @@
 	padding-left: 70px;
 	padding-right: 50px;
 	padding-bottom: 60px;
-	margin-right: 60px;
 }
 
 .rubrique
